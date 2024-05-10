@@ -1,0 +1,23 @@
+# langchain requirements
+langchain
+langchain-community
+langchain_core
+langchain_openai 
+langchain-google-genai
+langchain-groq
+
+# third party requirement
+google-generativeai 
+flask
+openai
+pypdf
+python-dotenv
+ipykernel
+bs4
+chromadb
+faiss-cpu
+streamlit
+beautifulsoup4
+sentence-transformers
+sentence-splitter
+pydantic
